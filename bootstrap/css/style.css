@@ -1,7 +1,16 @@
 /* Add your custom styles */
-.bg-teal, .btn-teal{
+.bg-teal,
+.btn-teal {
   background-color: #236666;
- }
-.text-teal{
+}
+.text-teal {
   color: #236666;
+}
+.carousel .carousel-indicators li {
+  width: 30px;
+  height: 5px;
+  border-radius: 0%;
+}
+.carousel-caption{
+  bottom: 200px;
 }
